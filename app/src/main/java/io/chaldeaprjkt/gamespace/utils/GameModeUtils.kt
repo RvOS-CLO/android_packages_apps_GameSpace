@@ -18,6 +18,7 @@ package io.chaldeaprjkt.gamespace.utils
 import android.app.GameManager
 import android.content.Context
 import android.content.Intent
+import android.content.pm.ActivityInfo
 import android.content.pm.PackageManager
 import android.os.IDeviceIdleController
 import android.os.RemoteException
